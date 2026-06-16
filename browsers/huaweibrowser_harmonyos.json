@@ -1,0 +1,32 @@
+{
+  "browsers": {
+    "huaweibrowser_harmonyos": {
+      "name": "Huawei Browser",
+      "type": "mobile",
+      "upstream": "chrome",
+      "accepts_flags": false,
+      "accepts_webextensions": false,
+      "releases": {
+        "5.0": {
+          "release_date": "2024-12-20",
+          "release_notes": "https://gitcode.com/openharmony/docs/blob/master/en/release-notes/OpenHarmony-v5.0.0-release.md#web",
+          "status": "retired",
+          "engine": "Blink",
+          "engine_version": "114"
+        },
+        "6.0": {
+          "release_date": "2025-09-27",
+          "release_notes": "https://gitcode.com/openharmony/docs/blob/master/en/release-notes/OpenHarmony-v6.0-release.md#arkweb",
+          "status": "current",
+          "engine": "Blink",
+          "engine_version": "132"
+        },
+        "7.0": {
+          "status": "planned",
+          "engine": "Blink",
+          "engine_version": "144"
+        }
+      }
+    }
+  }
+}

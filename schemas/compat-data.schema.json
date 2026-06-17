@@ -168,7 +168,9 @@
           "safari_ios",
           "samsunginternet_android",
           "webview_android",
-          "webview_ios"
+          "webview_ios",
+          "webview_openharmony",
+          "huaweibrowser_harmonyos"
         ]
       },
       "additionalProperties": {

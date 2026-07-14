@@ -21,6 +21,13 @@
           "engine": "Blink",
           "engine_version": "132"
         },
+        "6.1.3": {
+          "release_date": "2027-06-27",
+          "release_notes": "https://gitcode.com/openharmony/docs/blob/master/en/release-notes/OpenHarmony-v6.0-release.md#arkweb",
+          "status": "current",
+          "engine": "Blink",
+          "engine_version": "132"
+        },
         "7.0": {
           "status": "planned",
           "engine": "Blink",

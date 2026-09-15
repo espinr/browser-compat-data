@@ -1,6 +1,6 @@
 {
   "browsers": {
-    "huaweibrowser_harmonyos": {
+    "huawei_browser": {
       "name": "Huawei Browser",
       "type": "mobile",
       "upstream": "chrome",

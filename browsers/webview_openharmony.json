@@ -1,6 +1,6 @@
 {
   "browsers": {
-    "webview_openharmony": {
+    "arkweb": {
       "name": "WebView on OpenHarmony",
       "type": "mobile",
       "upstream": "chrome",

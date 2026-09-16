@@ -1,0 +1,49 @@
+{
+  "browsers": {
+    "huawei_browser": {
+      "name": "Huawei Browser Android",
+      "type": "mobile",
+      "upstream": "chrome",
+      "accepts_flags": false,
+      "accepts_webextensions": false,
+      "releases": {
+        "9": {
+          "release_date": "2018-12-06",
+          "status": "retired"
+        },
+        "10": {
+          "release_date": "2019-09-07",
+          "status": "retired"
+        },
+        "11": {
+          "release_date": "2020-09-29",
+          "status": "retired"
+        },
+        "12": {
+          "release_date": "2021-12-21",
+          "status": "retired"
+        },
+        "13": {
+          "release_date": "2022-12-01",
+          "status": "retired"
+        },
+        "14": {
+          "release_date": "2023-07-04",
+          "status": "retired"
+        },
+        "15": {
+          "release_date": "2024-03-23",
+          "status": "retired"
+        },
+        "16": {
+          "release_date": "2025-02-28",
+          "status": "retired"
+        },
+        "17": {
+          "release_date": "2026-05-15",
+          "status": "current"
+        }
+      }
+    }
+  }
+}

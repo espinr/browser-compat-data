@@ -169,7 +169,7 @@
           "samsunginternet_android",
           "webview_android",
           "webview_ios",
-          "arkweb",
+          "webview_openharmony",
           "huawei_browser"
         ]
       },

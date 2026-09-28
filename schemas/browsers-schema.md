@@ -103,8 +103,11 @@ The following table indicates initial versions for browsers in BCD. These are th
 | Safari          | 1               |                                                                                                                                                                          |
 | iOS Safari      | 1               |                                                                                                                                                                          |
 | Samsung Browser | 1.0             |                                                                                                                                                                          |
+| Huawei Browser Android | 9.1      |                                                                                                                                                                          |
+| Huawei Browser OpenHarmony | 5.0  |                                                                                                                                                                          |
 | WebView Android | 1               |                                                                                                                                                                          |
 | WebView iOS     | 1               |                                                                                                                                                                          |
+| WebView OpenHarmony     | 5.0     |                                                                                                                                                                          |
 
 ## Exports
 

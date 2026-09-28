@@ -1,0 +1,51 @@
+{
+  "browsers": {
+    "huawei_browser_android": {
+      "name": "Huawei Browser Android",
+      "type": "mobile",
+      "upstream": "chrome",
+      "accepts_flags": false,
+      "accepts_webextensions": false,
+      "releases": {
+        "9.1": {
+          "release_date": "2019-06-17",
+          "status": "retired"
+        },
+        "10": {
+          "release_date": "2020-03-19",
+          "status": "retired"
+        },
+        "11": {
+          "release_date": "2020-10-26",
+          "status": "retired"
+        },
+        "12": {
+          "release_date": "2021-10-21",
+          "status": "retired"
+        },
+        "13": {
+          "release_date": "2022-11-23",
+          "status": "retired"
+        },
+        "14": {
+          "release_date": "2023-06-28",
+          "status": "retired"
+        },
+        "15": {
+          "release_date": "2024-03-20",
+          "status": "retired"
+        },
+        "16": {
+          "release_date": "2025-02-14",
+          "status": "retired"
+        },
+        "17": {
+          "release_date": "2026-02-06",
+          "status": "current",
+          "engine": "Blink",
+          "engine_version": "114"          
+        }
+      }
+    }
+  }
+}

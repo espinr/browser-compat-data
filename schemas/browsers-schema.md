@@ -105,6 +105,7 @@ The following table indicates initial versions for browsers in BCD. These are th
 | Samsung Browser | 1.0             |                                                                                                                                                                          |
 | WebView Android | 1               |                                                                                                                                                                          |
 | WebView iOS     | 1               |                                                                                                                                                                          |
+| WebView OpenHarmonu  | 5.0      |                                                                                                                                                                          |
 
 ## Exports
 
